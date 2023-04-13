@@ -20,4 +20,5 @@ Program Praktikum 3
 <br/><br/>
 [Download](https://github.com/petrikss/PemprogramanVisual/releases/download/Release/Praktikum3.zip) Program Praktikum 3
 <br/>
-[Download](https://github.com/petrikss/PemprogramanVisual/archive/refs/tags/Release.zip) Source Code
+## Source Code
+[Download](https://github.com/petrikss/PemprogramanVisual/archive/refs/tags/Release.zip)
